@@ -4,7 +4,7 @@ Your favorite files and contexts under your fingertips. Safely store and switch 
 
 [**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) about it.
 
-Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#how-much-value-contextKeeper-delivers-when-compared-to-others)
+Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#how-much-value-contextkeeper-delivers-when-compared-to-others)
 
 Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
 
