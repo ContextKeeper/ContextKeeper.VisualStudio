@@ -1,8 +1,10 @@
 # [ContextKeeper for Visual Studio](https://contextkeeper.io)
 
-Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  ContextKeeper is a modern replacement for Save All Tabs extension.
+Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  ContextKeeper is a modern replacement for Save All Tabs extension. 
 
-[**Automatically switch contexts** when changing Git branches](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/).
+[**Automatically switch contexts** when changing Git branches](#✨Automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) about it.
+
+Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to others**.](#Is-ContextKeeper-is-delivering-more-value-comparing-to-free-alternatives?)
 
 Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
 
@@ -14,14 +16,16 @@ Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download
   * pinned tabs
   * tabs groups
   * [breakpoints](#Breakpoints-and-bookmarks)
-  * bookmarks
-
+  * [bookmarks](#Bookmarks)
+  * [relative paths](#Relative-paths)
+  
 * visual state
   * main IDE window position and size
   * floating windows position and size
   * docked state and horizontal/vertical orientation
   * tabs groups (including horizontal/vertical orientation)
-  * last active and selected tabs
+  * [last active and selected tabs](#Selected-and-active-documents-in-tab-groups)
+  * [full screen (maximized) windows support](#Full-screen-(maximized)-windows-support)
 
 **Join the revolution and install it today!** Save at least **3300 minutes/year** = 55 hours = 2.3 days (15 mins x 20 days x 11 months). You need about  15 minutes to fully switch between contexts at the best possible  scenario. 
 
@@ -146,7 +150,7 @@ There are two additional commands in the toolbar. **Stash** and **unstash**. The
 
 A stash snapshot is always displayed as a first on the list. Currently only single stash is supported but multiple stashes will be supported in the future.
 
-![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/kgAeeubdKzrWxkpK3CECfv/email)
+![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/kgAeeubdKzrWxkpK3CECfv/email?w=250)
 
 A stash has **additional description**, like "<stashed> **2 hours ago**", to get you additional awareness how long it's awaiting to be unstashed. It's really easy to lose track of time, during coding session, and it will act as an **useful reminder** how long your "main" task was **put on hold**. The **stash timestamp** description **is live updated**. If you decide that more meaningful name for stash snapshot is needed, you can simply rename it and it will become a regular snapshot.
 
@@ -162,7 +166,7 @@ You could **assign your favorites keyboard shortcut** combination for stash and 
 ## Full screen (maximized) windows support 
 There is a support added to remember if windows is maximized during snapshot creation. No more problems with restoring maximized windows, especially during git branch switching 😍 Only maximized windows will have additional property serialized in a snapshot.
 
-![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/s2WTETYNrgrKaZiP5vW8Bj/email)
+![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/s2WTETYNrgrKaZiP5vW8Bj/email?w=300)
 
 ## Where the snapshots are stored?
 
