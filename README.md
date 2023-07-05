@@ -13,7 +13,7 @@ Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download
   * last opened files, order and state including last selected line&column
   * pinned tabs
   * tabs groups
-  * breakpoints
+  * [breakpoints](#Breakpoints-and-bookmarks)
   * bookmarks
 
 * visual state
