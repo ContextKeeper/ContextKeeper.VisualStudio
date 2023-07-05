@@ -2,7 +2,7 @@
 
 Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  ContextKeeper is a modern replacement for Save All Tabs extension. 
 
-[**Automatically switch contexts** when changing Git branches](#✨Automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) about it.
+[**Automatically switch contexts** when changing Git branches](#Automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) about it.
 
 Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to others**.](#Is-ContextKeeper-is-delivering-more-value-comparing-to-free-alternatives?)
 
@@ -68,7 +68,7 @@ and restore them quickly using few commands from **right-click context menu**
 
 
 
-## ✨Automatic snapshot switching when changing branches
+## Automatic snapshot switching when changing branches
 
 [![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/5YYSqMkrHsJEEcp5W6sa8y?w=800&fit=max)](https://www.youtube.com/watch?v=BlxAoJpBrZ0)
 
