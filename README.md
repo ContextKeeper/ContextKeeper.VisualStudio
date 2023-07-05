@@ -66,7 +66,7 @@ and restore them quickly using few commands from **right-click context menu**
 
 ## ✨Automatic snapshot switching when changing branches
 
-[![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/6gDNSrLdXZMZmSuJGtvbqS?w=800&fit=max)](https://www.youtube.com/watch?v=BlxAoJpBrZ0)
+[![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/5YYSqMkrHsJEEcp5W6sa8y?w=800&fit=max)](https://www.youtube.com/watch?v=BlxAoJpBrZ0)
 
 When switching to another git branch ContextKeeper will automatically  remember current branch snapshot and save it to  .contextkeeper/.git-branches folder. Also it will be added to the  "Mental Snapshots" UI list at the very top with <Git Branch>  prefix:
 
@@ -100,14 +100,15 @@ The git worktree support, introduced in [v1.3](https://contextkeeper.io/blog/dow
 
 ## Current limitations
 
-- stored file paths in a snapshot are absolute, 
 - windows  positions are tightly coupled to your (multi) monitor setup and  switching between them are not supported yet (e. g. switching between  workstation and laptop). 
 
   
 
-## [Roadmap for 2022](https://contextkeeper.io/blog/roadmap-for-2022/):
 
-- bookmarks
-- breakpoints
-- relative paths and machine-independent snapshots restore process
-- storing snapshots outside of the solution folder
+
+[The Roadmap](https://contextkeeper.io/blog/roadmap-for-2022/) includes among others:
+
+- [**breakpoints & bookmarks**](https://contextkeeper.io/blog/launching-breakpoints-bookmarks-support/) (*update:* implemented 15th March 2023)
+- [**relative paths**](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) (*update*: implemented, 1st June 2022) and **machine-independent snapshots restore process**
+- **storing snapshots outside of the solution folder**
+- [**search dialog**](https://contextkeeper.io/blog/search-dialog-v1-71/) (*update*: implemented, 15th April 2022)
