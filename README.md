@@ -2,7 +2,9 @@
 
 Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  ContextKeeper is a modern replacement for Save All Tabs extension.
 
-[Switch between Git branches](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/) with automatically **restored context**.
+[**Automatically switch contexts** when changing Git branches](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/).
+
+Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
 
 ### The context is made by:
 
@@ -10,11 +12,16 @@ Your favorite files and contexts under your fingertips. Safely store and switch 
   * your favorites files (non-solution files are also supported)
   * last opened files, order and state including last selected line&column
   * pinned tabs
+  * tabs groups
+  * breakpoints
+  * bookmarks
 
 * visual state
   * main IDE window position and size
   * floating windows position and size
   * docked state and horizontal/vertical orientation
+  * tabs groups (including horizontal/vertical orientation)
+  * last active and selected tabs
 
 **Join the revolution and install it today!** Save at least **3300 minutes/year** = 55 hours = 2.3 days (15 mins x 20 days x 11 months). You need about  15 minutes to fully switch between contexts at the best possible  scenario. 
 
