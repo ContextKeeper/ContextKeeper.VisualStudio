@@ -2,9 +2,9 @@
 
 Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  ContextKeeper is a modern replacement for Save All Tabs extension. 
 
-[**Automatically switch contexts** when changing Git branches](#Automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) about it.
+[**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) about it.
 
-Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#How-much-value-ContextKeeper-delivers-when-compared-to-others)
+Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#how-much-value-contextKeeper-delivers-when-compared-to-others)
 
 Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
 
@@ -15,17 +15,17 @@ Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download
   * last opened files, order and state including last selected line&column
   * pinned tabs
   * tabs groups
-  * [breakpoints](#Breakpoints-and-bookmarks)
-  * [bookmarks](#Bookmarks)
-  * [relative paths](#Relative-paths)
+  * [breakpoints](#breakpoints-and-bookmarks)
+  * [bookmarks](#bookmarks)
+  * [relative paths](#relative-paths)
   
 * visual state
   * main IDE window position and size
   * floating windows position and size
   * docked state and horizontal/vertical orientation
   * tabs groups (including horizontal/vertical orientation)
-  * [last active and selected tabs](#Selected-and-active-documents-in-tab-groups)
-  * [full screen (maximized) windows support](#Full-screen-windows-support)
+  * [last active and selected tabs](#selected-and-active-documents-in-tab-groups)
+  * [full screen (maximized) windows support](#full-screen-windows-support)
 
 **Join the revolution and install it today!** Save at least **3300 minutes/year** = 55 hours = 2.3 days (15 mins x 20 days x 11 months). You need about  15 minutes to fully switch between contexts at the best possible  scenario. 
 
