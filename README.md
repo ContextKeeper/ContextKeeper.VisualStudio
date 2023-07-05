@@ -25,7 +25,7 @@ Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download
   * docked state and horizontal/vertical orientation
   * tabs groups (including horizontal/vertical orientation)
   * [last active and selected tabs](#Selected-and-active-documents-in-tab-groups)
-  * [full screen (maximized) windows support](#Full-screen-(maximized)-windows-support)
+  * [full screen (maximized) windows support](#Full-screen-windows-support)
 
 **Join the revolution and install it today!** Save at least **3300 minutes/year** = 55 hours = 2.3 days (15 mins x 20 days x 11 months). You need about  15 minutes to fully switch between contexts at the best possible  scenario. 
 
@@ -163,7 +163,7 @@ You could **assign your favorites keyboard shortcut** combination for stash and 
 
 ![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/aw76uizdFeTKB1Rj1T7L96/email)
 
-## Full screen (maximized) windows support 
+## Full screen windows support 
 There is a support added to remember if windows is maximized during snapshot creation. No more problems with restoring maximized windows, especially during git branch switching 😍 Only maximized windows will have additional property serialized in a snapshot.
 
 ![img](https://embed.filekitcdn.com/e/ta2FHAgWPvhq7wYzRrVqfZ/s2WTETYNrgrKaZiP5vW8Bj/email?w=300)
