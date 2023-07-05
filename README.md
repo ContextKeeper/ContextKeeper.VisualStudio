@@ -4,7 +4,7 @@ Your favorite files and contexts under your fingertips. Safely store and switch 
 
 [**Automatically switch contexts** when changing Git branches](#Automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) about it.
 
-Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to others**.](#Is-ContextKeeper-is-delivering-more-value-comparing-to-free-alternatives?)
+Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#How-much-value-ContextKeeper-delivers-when-compared-to-others)
 
 Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
 
@@ -184,7 +184,7 @@ The git worktree support, introduced in [v1.3](https://contextkeeper.io/blog/dow
 - worktree uses less disk space - there is a single .git folder shared across multiple working trees,
 - often more convenient than stashing
 
-## Is ContextKeeper is delivering more value comparing to free alternatives?
+## How much value ContextKeeper delivers when compared to others
 
 Below, you'll find a table comparing extensions that work with VS 2022. I've included free extensions, with the exception of Task Canvas, which is a paid one. I've invested several hours in testing Favorite Documents, Workspace Manager, and Task Canvas to get a clearer picture of how they all stack up against ContextKeeper.
 
