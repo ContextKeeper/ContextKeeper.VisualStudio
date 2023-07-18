@@ -2,13 +2,15 @@
 
 Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  ContextKeeper is a modern replacement for Save All Tabs extension. 
 
-[**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/relative-paths-support-in-v1-8-and-contextkeeper-mentioned-on-the-jesse-libertys-podcast/) about it.
+💫 [**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/) about it.
+
+💡 **ContextKeeper is currently in the Open Beta**, if you will find any issues please [report them](https://github.com/ContextKeeper/ContextKeeper.VisualStudio/issues).
 
 Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#how-much-value-contextkeeper-delivers-when-compared-to-others)
 
 Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
 
-### The context is made by:
+### The supported context is made by:
 
 * logical state
   * your favorites files (non-solution files are also supported)
@@ -37,7 +39,7 @@ In worst case scenarios **switching to detailed context could take several hours
 
 With ContextKeeper you could **safely store and switch between different programming contexts in seconds 🔥**
 
-**All opened files, pinned tabs, documents positions and state  (horizontal/vertical orientation, docked state and files order)** are  preserved in a **simple JSON file** 😍 No more dealing with broken .suo file again. 
+**All opened files, pinned tabs, documents positions and state  (horizontal/vertical orientation, docked state and files order)**, **breakpoints and bookmarks** are  preserved in a **simple JSON file** 😍 No more dealing with broken .suo file again. 
 
 After installing VSIX package you could access your latest Mental Snapshots by navigating to 
 
@@ -230,7 +232,7 @@ It appears that the most popular extension is based on the simple VS API - `VsSh
 
 ## Workspace Manager
 
-The spiritual successor to the (broken) approach of Save All the Tabs is to utilize the `IVsUIShellDocumentWindowMgr.ReopenDocumentWindows()` API. Unfortunately it is nothing more than wrapper for default Visual Studio state engine, which which has had persistent, unresolved issues for years. It's unreliable, sometimes functioning properly but often failing. My experience with it has been similar to Save All the Tabs, which I tried  using with mixed success in the past.
+The spiritual successor to the (broken) approach of Save All the Tabs, utilizing the `IVsUIShellDocumentWindowMgr.ReopenDocumentWindows()` API. Unfortunately it is nothing more than wrapper for the default Visual Studio state engine, which which has had persistent, unresolved issues for years. It's unreliable, sometimes functioning properly but often failing. My experience with it has been similar to Save All the Tabs, which I tried  using with mixed success in the past.
 
 **The fail of the Save All the Tabs extension**, to **deliver a stable** and **reliable** restore mechanism, **really push me** to work on the a **truly independent session restore engine**. I distinctly recall my thought process during that time - 
 
