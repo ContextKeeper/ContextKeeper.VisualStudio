@@ -10,7 +10,7 @@ Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check h
 
 Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
 
-<video src="https://contextkeeper.io/images/ContextKeeper_sneak_peak.mp4"></video>
+<video src="https://github.com/ContextKeeper/ContextKeeper.VisualStudio/assets/8102322/630b296a-e103-42c6-aeca-88dbe37867f3"></video>
 
 ### The supported context is made by:
 
