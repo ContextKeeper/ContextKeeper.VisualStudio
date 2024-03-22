@@ -2,13 +2,15 @@
 
 Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  ContextKeeper is a modern replacement for Save All Tabs extension. 
 
-💫 [**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and [check release article](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/) about it.
+💫 [**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and [check article](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/) about it.
 
 💡 **ContextKeeper is currently in the Open Beta**, if you will find any issues please [report them](https://github.com/ContextKeeper/ContextKeeper.VisualStudio/issues).
 
 Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#how-much-value-contextkeeper-delivers-when-compared-to-others)
 
 Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
+
+<video src="ContextKeeper_sneak_peak.mp4" />
 
 ### The supported context is made by:
 
