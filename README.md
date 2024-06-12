@@ -1,6 +1,6 @@
 # [ContextKeeper for Visual Studio](https://contextkeeper.io)
 
-Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  ContextKeeper is a modern replacement for Save All Tabs extension. 
+Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  Save progress on tasks easily! ContextKeeper is a modern replacement for Save All Tabs extension. 
 
 💫 [**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and [check article](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/) about it.
 
