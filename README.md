@@ -1,4 +1,4 @@
-# [ContextKeeper for Visual Studio](https://contextkeeper.io)
+# [Session Manager for Visual Studio](https://contextkeeper.io)
 
 Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  Save progress on tasks easily! ContextKeeper is a modern replacement for Save All Tabs extension. 
 
@@ -190,7 +190,7 @@ The git worktree support, introduced in [v1.3](https://contextkeeper.io/blog/dow
 
 ## How much value ContextKeeper delivers when compared to others
 
-Below, you'll find a table comparing extensions that work with VS 2022. I've included free extensions, with the exception of Task Canvas, which is a paid one. I've invested several hours in testing Favorite Documents, Workspace Manager, and Task Canvas to get a clearer picture of how they all stack up against ContextKeeper.
+Below, you'll find a table comparing extensions that work with VS 2022. I've included free extensions, with the exception of Task Canvas, which is a paid one. I've invested several hours testing Favorite Documents, Workspace Manager, and Task Canvas to get a clearer picture of how they all stack up against ContextKeeper.
 
 | Features supported                                           |  ContextKeeper   | Task Canvas |      Favorite Documents      | Workspace Manager |
 | ------------------------------------------------------------ | :--------------: | :---------: | :--------------------------: | :---------------: |
@@ -238,7 +238,7 @@ The spiritual successor to the (broken) approach of Save All the Tabs, utilizing
 
 **The fail of the Save All the Tabs extension**, to **deliver a stable** and **reliable** restore mechanism, **really push me** to work on the a **truly independent session restore engine**. I distinctly recall my thought process during that time - 
 
-> If it doesn't work, I'll at least give it a shot and try to build it. There's nothing wrong with failing, but if I succeed, man, one day it'll be a big deal! I will try to make it the state of the art session manager Visual Studio never had, but always deserved. 
+> If it doesn't work, I'll at least give it a shot and try to build it. There's nothing wrong with failing, but if I succeed, it will be a big deal one day! I will try to make it the state-of-the-art session manager that Visual Studio has never had but always deserved.
 
 Later, the engine has become the heart of ContextKeeper. It has taken thousands of hours and years of work to bring it to a state where it is a true pleasure and an enjoyable experience to use, and to have the session manager that Visual Studio has always deserved. 🚀 Cause there ain't room for more than one King 👑 in this town.
 
@@ -246,7 +246,7 @@ Later, the engine has become the heart of ContextKeeper. It has taken thousands 
 
 ## Current limitations
 
-- windows  positions are tightly coupled to your (multi) monitor setup and  switching between them are not supported yet (e. g. switching between  workstation and laptop). 
+- windows positions are tightly coupled to your (multi) monitor setup, and switching between them is not supported yet (e.g., switching between workstation and laptop with re-adjusted documents size & position to a new resolution). 
 
   
 
