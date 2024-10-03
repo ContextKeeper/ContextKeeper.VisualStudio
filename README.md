@@ -240,7 +240,7 @@ The spiritual successor to the (broken) approach of Save All the Tabs, utilizing
 
 > If it doesn't work, I'll at least give it a shot and try to build it. There's nothing wrong with failing, but if I succeed, it will be a big deal one day! I will try to make it the state-of-the-art session manager that Visual Studio has never had but always deserved.
 
-Later, the engine has become the heart of ContextKeeper. It has taken thousands of hours and years of work to bring it to a state where it is a true pleasure and an enjoyable experience to use, and to have the session manager that Visual Studio has always deserved. 🚀 Cause there ain't room for more than one King 👑 in this town.
+Later, the engine has become the heart of ContextKeeper. The context engine is entirely written from scratch, and it is fully independent from Visual Studio API default solution. It has taken thousands of hours and years of work to bring it to a state where it is a true pleasure and an enjoyable experience to use, and to have the session manager that Visual Studio has always deserved. 🚀 Cause there ain't room for more than one King 👑 in this town.
 
 
 
