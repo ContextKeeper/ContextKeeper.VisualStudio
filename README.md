@@ -13,6 +13,7 @@
 **Reclaim your lost productivity**. ContextKeeper safely **preserves your task's progress** so you can seamlessly **switch between different projects or features** without losing your piece of mind 🧠
 
 Designed with 💖 for developers who need to maintain multiple work contexts throughout their day. Do you know [**the real cost of interruption and context switching**](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/) and **The Law of Context Density** - "*A larger context naturally emerges with a bigger screen real estate.*"?
+
 <video src="https://github.com/ContextKeeper/ContextKeeper.VisualStudio/assets/8102322/630b296a-e103-42c6-aeca-88dbe37867f3" controls autoplay width="1000"></video>
 
 ## 💡 **ContextKeeper is currently in the Free Beta with [Optional Founders License](#optional-founders-license), if you will find any issues please [report them](https://github.com/ContextKeeper/ContextKeeper.VisualStudio/issues)**.
