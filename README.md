@@ -16,8 +16,6 @@ Designed with 💖 for developers who need to maintain multiple work contexts th
 
 ## 💡 **ContextKeeper is currently in the Free Beta with [Optional Founders License](#optional-founders-license), if you will find any issues please [report them](https://github.com/ContextKeeper/ContextKeeper.VisualStudio/issues)**.
 
-Missing the Save All Tabs extension? ContextKeeper is the modern replacement you've been waiting for. 
-
 ## 🧙‍♂️ [**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and check more detailed [article here](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/).
 
 Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#how-much-value-contextkeeper-delivers-when-compared-to-others)
