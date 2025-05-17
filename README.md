@@ -14,7 +14,7 @@
 
 Designed with 💖 for developers who need to maintain multiple work contexts throughout their day. Do you know [**the real cost of interruption and context switching**](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/) and **The Law of Context Density** - "*A larger context naturally emerges with a bigger screen real estate.*"?
 
-## 💡 **ContextKeeper is currently in the Free Beta with [Optional Founders License](#Optional-Founders License), if you will find any issues please [report them](https://github.com/ContextKeeper/ContextKeeper.VisualStudio/issues)**.
+## 💡 **ContextKeeper is currently in the Free Beta with [Optional Founders License](#optional-founders-license), if you will find any issues please [report them](https://github.com/ContextKeeper/ContextKeeper.VisualStudio/issues)**.
 
 Missing the Save All Tabs extension? ContextKeeper is the modern replacement you've been waiting for. 
 
