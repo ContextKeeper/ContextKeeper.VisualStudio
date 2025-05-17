@@ -1,18 +1,32 @@
-# [Session Manager for Visual Studio](https://contextkeeper.io)
+# [ContextKeeper: The State-of-the-Art Session Manager for Visual Studio](https://contextkeeper.io)
 
-Your favorite files and contexts under your fingertips. Safely store and switch between **documents sets**  in seconds using **simple JSON files** 🔥  Save progress on tasks easily! ContextKeeper is a modern replacement for Save All Tabs extension. 
+## **Save and restore** your **complete development context** with a single click 🔥
 
-💫 [**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and [check article](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/) about it.
+## **Key Features:**
 
-💡 **ContextKeeper is currently in the Open Beta**, if you will find any issues please [report them](https://github.com/ContextKeeper/ContextKeeper.VisualStudio/issues).
+- **Save open documents**, **files and the tabs layout** with **breakpoints** and **bookmarks** - restore them later and **make context switching less painful**
+- **Automagically restore your last context** when **switching** git **branches**
+- **Full multi-monitor and DPIs support** for complex windows and the tabs layout
+- Preserve your **exact document layout** and **editor state**
+- **Simple JSON file** storage for **easy backup** and **portability**
+
+**Reclaim your lost productivity**. ContextKeeper safely **preserves your task's progress** so you can seamlessly **switch between different projects or features** without losing your piece of mind 🧠
+
+Designed with 💖 for developers who need to maintain multiple work contexts throughout their day. Do you know [**the real cost of interruption and context switching**](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/) and **The Law of Context Density** - "*A larger context naturally emerges with a bigger screen real estate.*"?
+
+## 💡 **ContextKeeper is currently in the Free Beta with [Optional Founders License](#Optional-Founders License), if you will find any issues please [report them](https://github.com/ContextKeeper/ContextKeeper.VisualStudio/issues)**.
+
+Missing the Save All Tabs extension? ContextKeeper is the modern replacement you've been waiting for. 
+
+## 🧙‍♂️ [**Automatically switch contexts** when changing Git branches](#automatic-snapshot-switching-when-changing-branches) and check more detailed [article here](https://contextkeeper.io/blog/automatic-snapshot-switching-when-changing-branches-v1/).
 
 Are you use using Favorite Documents, Workspace Manager or Task Canvas? [Check how much **value ContextKeeper delivers** when **compared to them**.](#how-much-value-contextkeeper-delivers-when-compared-to-others)
 
 Looking for **ARM-compatible build** or **VS 2019/2017/2015 support**? [Download from here](https://contextkeeper.io/downloads).
 
-<video src="https://github.com/ContextKeeper/ContextKeeper.VisualStudio/assets/8102322/630b296a-e103-42c6-aeca-88dbe37867f3" controls autoplay></video>
+<video src="https://github.com/ContextKeeper/ContextKeeper.VisualStudio/assets/8102322/630b296a-e103-42c6-aeca-88dbe37867f3" controls autoplay width="1000"></video>
 
-### The supported context is made by:
+## The supported context is made by:
 
 * logical state
   * your favorites files (non-solution files are also supported)
@@ -41,7 +55,7 @@ In worst case scenarios **switching to detailed context could take several hours
 
 With ContextKeeper you could **safely store and switch between different programming contexts in seconds 🔥**
 
-**All opened files, pinned tabs, documents positions and state  (horizontal/vertical orientation, docked state and files order)**, **breakpoints and bookmarks** are  preserved in a **simple JSON file** 😍 No more dealing with broken .suo file again. 
+**All opened files, pinned tabs, documents positions, editor state and the tabs layout  (horizontal/vertical orientation, docked state and files order)**, **breakpoints and bookmarks** are  preserved in a **simple JSON file** 😍 No more dealing with broken .suo file again. 
 
 After installing VSIX package you could access your latest Mental Snapshots by navigating to 
 
@@ -205,7 +219,7 @@ Below, you'll find a table comparing extensions that work with VS 2022. I've inc
 | Last active tab among all opened                             |        ✅         |      ❌      |              ❌               |    unreliable     |
 | Visual Studio independent restore engine                     |        ✅         |  partially  |              ❌               |         ❌         |
 | Multiple document windows                                    |        ✅         |      ❌      |              ❌               |    unreliable     |
-| Multiple monitors support                                    |        ✅         |      ❌      |              ❌               |    unreliable     |
+| Multiple-monitor and DPIs support                            |        ✅         |      ❌      |              ❌               |    unreliable     |
 | Relative path (portable sessions between environments)       |        ✅         |   limited   |           limited            |         ❌         |
 | Maximized/Normal state for document windows                  |        ✅         |      ❌      |              ❌               |         ❌         |
 | Source control ready sessions files (diffable JSON format)   |        ✅         |      ❌      |              ❌               |         ❌         |
@@ -242,7 +256,11 @@ The spiritual successor to the (broken) approach of Save All the Tabs, utilizing
 
 Later, the context engine has become the heart of ContextKeeper. It was entirely written from scratch, and it is fully independent from Visual Studio session restore API. It is rock solid, and works in VS 2022, including olders versions VS 2019/2017/2015. It has taken thousands of hours and years of work to bring it to a state where it is a true pleasure and an enjoyable experience to use, and to have the session manager that Visual Studio has always deserved. 🚀 Cause there ain't room for more than one King 👑 in this town.
 
+## Optional Founders License
 
+- ***Free Beta***: Currently, all features are available for free during the beta period
+- ***Optional License***: [The founder license is available for early adopters](https://contextkeeper.io/license-preorder/) who wish to support development
+- ***Future Model***: After the beta (not ETA at this point), basic features will remain free, while more advanced features will require a paid license
 
 ## Current limitations
 
